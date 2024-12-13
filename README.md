@@ -33,6 +33,12 @@ $ npm run start
 $ npm run test
 ```
 
+## Verificação da Cobertura dos Testes
+
+```bash
+$ npm run test:cov
+```
+
 ## Swagger
 
 Foi adicionado o **Swagger** ao projeto. Após rodar a aplicação, o mesmo pode ser acessado ao passar a rota */docs* na **URL**. Os *endpoints* disponíveis para manipulação encontram-se logo abaixo.
